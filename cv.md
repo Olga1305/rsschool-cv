@@ -20,6 +20,7 @@ After several years of working on projects from the digital marketing side and r
 ---
 
 ## Skills
+
 Front-end | Back-end & DB | Other
 ------------ | ------------- | -------------
 React.js | Node.js | Javascript
@@ -62,8 +63,10 @@ A small functional single page application, in which the tasks are displayed in 
 - To enable the process of rapid prototyping of web/mobile apps to demo value of Neuroelectrics/Starlab services.
 - To take part in the human-centred design process, continuous improvement of user experience.
 - To support developments of desktop application UI (together with the software team).
+
 ### Digital Marketing Manager - [Lucas Fox International Properties](https://www.lucasfox.com/) (Barcelona)
 08/2018 - 09/2019
+
 ### Chief Marketing Officer & Co-founder - Metricfy at [Demium Startups](https://demium.com/) Incubator (Barcelona)
 01/2017 - 05/2018
 
@@ -73,6 +76,7 @@ A small functional single page application, in which the tasks are displayed in 
         
 ### Head of Digital Marketing - Donacasa (Barcelona)
 07/2015 - 12/2016
+
 ### Managing Director & CMO - Femcultura (Barcelona) 
 01/2013 - 06/2015
   
