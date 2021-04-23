@@ -3,19 +3,19 @@
 
 - 📩 dokukova@gmail.com
 - 🌐 www.dokukova.com
+- 📱 +34 646488466
 - [LinkedIn](https://www.linkedin.com/in/olgadokukova/)
 - [Github](https://github.com/Olga1305)
-- 📱 +34 646488466
-- Telegram: @OlgaD_bcn
+- [Telegram](https://t.me/OlgaD_bcn) @OlgaD_bcn
 
 ---
 
 ## Summary
 👩🏼‍💻 Full Stack Developer with Digital Marketing & Project Management background:
 
-> After several years of working on projects from the digital marketing side and realizing that many times the marketer's work depends a lot on the developer, I decided to get fully into the development sector and now it is something I really enjoy.
+After several years of working on projects from the digital marketing side and realizing that many times the marketer's work depends a lot on the developer, I decided to get fully into the development sector and now it is something I really enjoy.
 
-> 👩‍💼 I am a people‐oriented, outgoing, and hard‐working professional, passionate about Agile Methodology, MERN Stack, and digital projects.
+👩‍💼 I am a people‐oriented, outgoing, and hard‐working professional, passionate about Agile Methodology, MERN Stack, and digital projects.
 
 ---
 
@@ -98,11 +98,11 @@ A small functional single page application, in which the tasks are displayed in 
 
 ## Languages
  
->**English** - Full Professional Proficiency
+**English** - Full Professional Proficiency
 
->**Spanish** - Bilingual Proficiency
+**Spanish** - Bilingual Proficiency
 
->**Russian** - Native Proficiency
+**Russian** - Native Proficiency
 
 -------
 
