@@ -49,6 +49,18 @@ A small functional single page application, in which the tasks are displayed in 
 
 **Technologies:** React, MongoDB, Node.js, Express.js, CSS.
 
+### [Aupet - 2nd Ironhack Project](https://slides.com/olga1305/aupet)
+
+Webapp that puts in contact a pet owner with a petkeeper.
+
+**Technologies:** MongoDB, Node.js, Express.js, SASS, Handlebars, Git colaborative
+
+### [Bounce Master - 1st Ironhack Project](https://slides.com/olga1305/bounce-master)
+
+An arcade game where the user has to bounce the falling object with a bar in such a way that the catcher could catch it. There are 6 different scenarios. 
+
+**Technologies:** HTML, CSS, Javascript, Canvas, JQuery.
+
 ---
 
 ## Experience
@@ -64,8 +76,10 @@ A small functional single page application, in which the tasks are displayed in 
 - To take part in the human-centred design process, continuous improvement of user experience.
 - To support developments of desktop application UI (together with the software team).
 
+
 ### Digital Marketing Manager - [Lucas Fox International Properties](https://www.lucasfox.com/) (Barcelona)
 08/2018 - 09/2019
+
 
 ### Chief Marketing Officer & Co-founder - Metricfy at [Demium Startups](https://demium.com/) Incubator (Barcelona)
 01/2017 - 05/2018
